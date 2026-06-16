@@ -1,0 +1,1 @@
+This is the learnings and practice codes as part of the Agentic AI course
