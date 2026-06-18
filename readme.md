@@ -1,1 +1,4 @@
-This is the learnings and practice codes as part of the Agentic AI course
+## AGENTIC AI LEARNINGS - 2026
+
+Complete end-to-end practice files with each clear steps and understandings with perfect coding practices.
+
